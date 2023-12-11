@@ -76,8 +76,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `password`, `email`, `join_date`) VALUES
-(3, 'Frolicsome', '$2y$10$Tx313URxY4pRFeFxQ05HROQ/Z92.v4oa.lpc4O/OCg.DV2tSpPVEm', 'frolicsomequipster@gmail.com', '2021-10-25 10:53:08'),
-(4, 'LetsPlay', '$2y$10$.Qd9kKCPz.qhmzaliRFpj.weT2jIMvhKz3BDvqmf157M/nNL1youW', 'radianangel@gmail.com', '2021-09-28 10:43:26');
+(3, 'Frolicsome', ', '2021-10-25 10:53:08'),
+(4, 'LetsPlay', ', '2021-09-28 10:43:26');
 
 --
 -- Indexen voor geëxporteerde tabellen
