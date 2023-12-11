@@ -76,7 +76,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `password`, `email`, `join_date`) VALUES
-(3, 'Frolicsome', ', '2021-10-25 10:53:08'),
+(3, '', ', '2021-10-25 10:53:08'),
 (4, 'LetsPlay', ', '2021-09-28 10:43:26');
 
 --
