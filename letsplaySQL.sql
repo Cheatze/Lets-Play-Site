@@ -40,8 +40,8 @@ CREATE TABLE `games` (
 --
 
 INSERT INTO `games` (`id`, `Name`, `Players`, `filename`, `Owner`) VALUES
-(1, 'Schaaken', 2, '', 'Frolicsome'),
-(2, 'Dammen', 2, 'Chea.png', 'Frolicsome'),
+(1, 'Schaaken', 2, '', ''),
+(2, 'Dammen', 2, 'Chea.png', ''),
 (3, 'Superschaaken', 3, 'Chea.png', 'LetsPlay');
 
 -- --------------------------------------------------------
